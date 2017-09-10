@@ -49,7 +49,7 @@ UCF=
 
 [HierarchyViewer]
 SortInfo=u
-HierarchyInformation=fun|beh|0 fun_not|beh|0
+HierarchyInformation=mux2x2|beh|0 
 ShowHide=ShowTopLevel
 Selected=
 
