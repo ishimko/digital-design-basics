@@ -3,15 +3,15 @@
  <document type="stimulators" version="1">
   <set name="ASDB Stimulators" active="1">
    <stimulator>
-    <signal_path value="/fun/in1"/>
+    <signal_path value="/fun_not/in1"/>
     <rawdescription value="CLK:FRM:Override:100.000000;2;1;0;50;1:Clock:1:"/>
    </stimulator>
    <stimulator>
-    <signal_path value="/fun/in2"/>
+    <signal_path value="/fun_not/in2"/>
     <rawdescription value="CLK:FRM:Override:50.000000;2;1;0;50;1:Clock:1:"/>
    </stimulator>
    <stimulator>
-    <signal_path value="/fun/in3"/>
+    <signal_path value="/fun_not/in3"/>
     <rawdescription value="CLK:FRM:Override:25.000000;2;1;0;50;1:Clock:0:"/>
    </stimulator>
   </set>
