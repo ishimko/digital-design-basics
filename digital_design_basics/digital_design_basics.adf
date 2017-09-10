@@ -49,7 +49,7 @@ UCF=
 
 [HierarchyViewer]
 SortInfo=u
-HierarchyInformation=fun|beh|0 fun_not|beh|0 
+HierarchyInformation=fun|beh|0 fun_not|beh|0
 ShowHide=ShowTopLevel
 Selected=
 
@@ -61,18 +61,22 @@ stimulators=1
 /task2.vhd=-1
 /task3.vhd=-1
 /task4.vhd=-1
+/task5.vhd=-1
 stimulators/task1.do=-1
 stimulators/task2.do=-1
 stimulators/task3.do=-1
 stimulators/task4.do=-1
+stimulators/task5.do=-1
 
 [Files.Data]
 .\src\task1.vhd=VHDL Source Code
 .\src\task2.vhd=VHDL Source Code
 .\src\task3.vhd=VHDL Source Code
 .\src\task4.vhd=VHDL Source Code
+.\src\task5.vhd=VHDL Source Code
 .\src\stimulators\task1.do=macro
 .\src\stimulators\task2.do=macro
 .\src\stimulators\task3.do=macro
 .\src\stimulators\task4.do=macro
+.\src\stimulators\task5.do=macro
 
