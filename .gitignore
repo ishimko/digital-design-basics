@@ -11,8 +11,7 @@ Edfmap.ini
 *.sth
 *.cmd
 compile/
-*.set 
-!stimulators.set
+*.set
 
 # Comment to save compilation order:
 compilation.order
