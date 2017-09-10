@@ -49,13 +49,26 @@ UCF=
 
 [HierarchyViewer]
 SortInfo=u
-HierarchyInformation=mux|beh|0 
+HierarchyInformation=fun|beh|0 
 ShowHide=ShowTopLevel
 Selected=
 
+[Groups]
+stimulators=1
+
 [Files]
 /task1.vhd=-1
+/task2.vhd=-1
+/task3.vhd=-1
+stimulators/task1.do=-1
+stimulators/task2.do=-1
+stimulators/task3.do=-1
 
 [Files.Data]
 .\src\task1.vhd=VHDL Source Code
+.\src\task2.vhd=VHDL Source Code
+.\src\task3.vhd=VHDL Source Code
+.\src\stimulators\task1.do=macro
+.\src\stimulators\task2.do=macro
+.\src\stimulators\task3.do=macro
 
