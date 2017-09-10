@@ -13,7 +13,6 @@ Edfmap.ini
 *.asdbw/
 compile/
 *.set
-!stimulators.set
 
 # Comment to save compilation order:
 compilation.order
